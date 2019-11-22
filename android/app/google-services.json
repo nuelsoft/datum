@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "706275851745",
+    "firebase_url": "https://datum-3df5d.firebaseio.com",
+    "project_id": "datum-3df5d",
+    "storage_bucket": "datum-3df5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706275851745:android:54a5d371949c9b9589a6a0",
+        "android_client_info": {
+          "package_name": "com.soft.datum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706275851745-tfi4thtkih55cqa081ahf5ji3tmua0d4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2fg_nA1KLeOSuhXh3A2-qb18HPxATIQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706275851745-tfi4thtkih55cqa081ahf5ji3tmua0d4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
